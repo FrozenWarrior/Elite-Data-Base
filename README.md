@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Elite Ship Database Website
 
 You can use the [editor on GitHub](https://github.com/FrozenWarrior/Elite_Ships/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
